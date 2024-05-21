@@ -1,0 +1,10 @@
+C:\Users\ignas\source\repos\crashas1\crashas1\bin\Debug\crashas1.exe.config
+C:\Users\ignas\source\repos\crashas1\crashas1\bin\Debug\crashas1.exe
+C:\Users\ignas\source\repos\crashas1\crashas1\bin\Debug\crashas1.pdb
+C:\Users\ignas\source\repos\crashas1\crashas1\obj\Debug\crashas1.csproj.AssemblyReference.cache
+C:\Users\ignas\source\repos\crashas1\crashas1\obj\Debug\crashas1.Form1.resources
+C:\Users\ignas\source\repos\crashas1\crashas1\obj\Debug\crashas1.Properties.Resources.resources
+C:\Users\ignas\source\repos\crashas1\crashas1\obj\Debug\crashas1.csproj.GenerateResource.cache
+C:\Users\ignas\source\repos\crashas1\crashas1\obj\Debug\crashas1.csproj.CoreCompileInputs.cache
+C:\Users\ignas\source\repos\crashas1\crashas1\obj\Debug\crashas1.exe
+C:\Users\ignas\source\repos\crashas1\crashas1\obj\Debug\crashas1.pdb
