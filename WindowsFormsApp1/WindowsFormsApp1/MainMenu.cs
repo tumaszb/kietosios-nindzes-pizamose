@@ -37,6 +37,21 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("Plinko game is not yet implemented.");
         }
+
+        private void MainMenu_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

@@ -93,6 +93,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -118,6 +119,33 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-online-casino-roulette-casino-token-casino-game-casino-background-game-text-photography.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_443793206_5DbZ7GUSS2ezOSRrE8kJRthp6S0ynAal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kanape-image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pTodoBRgc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-gradient-desktop-color-background-miscellaneous-blue-atmosphere.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nice-background-7m21wioft7nzo9bu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_263131939_YV0i6j7Gd1JghYiW2g6NIVXBgxk2YoQw.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_263131939_YV0i6j7Gd1JghYiW2g6NIVXBgxk2YoQw1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crash_gambling_games_2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

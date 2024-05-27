@@ -80,6 +80,16 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void panelGame_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void lblMultiplier_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
